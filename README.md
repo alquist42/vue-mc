@@ -8,6 +8,7 @@
 [![Coverage](https://img.shields.io/codecov/c/github/FiguredLimited/vue-mc/master.svg?style=flat-square)](https://codecov.io/gh/FiguredLimited/vue-mc)
 [![Latest Version](https://img.shields.io/npm/v/vue-mc.svg?style=flat-square)](https://www.npmjs.com/package/vue-mc)
 [![License](https://img.shields.io/npm/l/vue-mc.svg?style=flat-square)](https://github.com/FiguredLimited/vue-mc/blob/master/LICENSE)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falquist42%2Fvue-mc.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Falquist42%2Fvue-mc?ref=badge_shield)
 
 ### Documentation
 
@@ -52,3 +53,6 @@ yarn docs
 ### License
 
 [MIT](LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Falquist42%2Fvue-mc.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Falquist42%2Fvue-mc?ref=badge_large)
